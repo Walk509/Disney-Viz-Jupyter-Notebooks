@@ -9,7 +9,7 @@ This project is designed to gather clean and sort data in preperation to create 
   2. Has Disney's purchase of Pixar on January 26, 2006 affected the production of Pixar movies?
   3. Do sequels have a higher gross than the first movie in a series?
   
-### Disney Stock Prices
+### Disney Stock Prices (In Progress)
   1. How do Box office sales numbers on newly released videos affect the Disney Stock Price?
   2. How does the Critic Reception of a newly released movie affect the Disney Stock Price?
   3. How does viewer perceptions of a movie affect the Disney Stock Price?
@@ -24,7 +24,7 @@ To create the dataset for the Pixar Viz just run the code. It will add all theat
 
 Once the data is collected we can move it in to Tableau to visualize.
 
-### Disney Stock Prices
+### Disney Stock Prices (In Progress)
 This Jupyter Notebook contains the code used to Scrape a IMDB Disney Movie list page for the movie data.
 
 First we need to refine the questions slightly to give us clear direction on how to obtain data that can be used to answer the questions. First what constitutes a newly released film? We will look at five days before the release to 2 weeks after so that we can account for critics embargo ending and their reviews being published before the release of the film As well as the user ratings to start coming in after they watched the film. Second how do we judge critic reception? We will use the metascore which is a weighted average of curated critics. Finally to quantify viewer perception we will use the IMDB user ratings.
