@@ -13,7 +13,7 @@ This project is designed to gather clean and sort data in preperation to create 
   1. How do Box office sales numbers on newly released videos affect the Disney Stock Price?
   2. How does the Critic Reception of a newly released movie affect the Disney Stock Price?
   3. How does viewer perceptions of a movie affect the Disney Stock Price?
-  4. Which Movie Studio 
+  4. Do the different movie studios affect Stock Prices Differently, and if so which one has the greatest effect?
 
 ## Jupyter Notebook:
 
